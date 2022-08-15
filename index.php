@@ -1,5 +1,6 @@
 <?php require_once('EzCrud.php');
 
+// config
 $config = [
     'db' => [
         'hostname' => 'localhost',
